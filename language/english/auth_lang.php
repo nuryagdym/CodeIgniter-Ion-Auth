@@ -52,6 +52,28 @@ $lang['deactivate_submit_btn']               = 'Submit';
 $lang['deactivate_validation_confirm_label'] = 'confirmation';
 $lang['deactivate_validation_user_id_label'] = 'user ID';
 
+// Signup
+$lang['signup_user_heading']                           = 'Sign Up';
+$lang['signup_user_subheading']                        = 'Please enter the user\'s information below.';
+$lang['singup_user_fname_label']                       = 'First Name:';
+$lang['singup_user_lname_label']                       = 'Last Name:';
+$lang['signup_user_company_label']                     = 'Company Name:';
+$lang['singup_user_identity_label']                    = 'Identity:';
+$lang['signup_user_email_label']                       = 'Email:';
+$lang['signupe_user_phone_label']                       = 'Phone:';
+$lang['signup_user_password_label']                    = 'Password:';
+$lang['signup_user_password_confirm_label']            = 'Confirm Password:';
+$lang['signup_user_submit_btn']                        = 'Sign Up';
+$lang['signup_user_validation_fname_label']            = 'First Name';
+$lang['signup_user_validation_lname_label']            = 'Last Name';
+$lang['signup_user_validation_identity_label']         = 'Identity';
+$lang['signup_user_validation_email_label']            = 'Email Address';
+$lang['signup_user_validation_phone_label']            = 'Phone';
+$lang['signup_user_validation_company_label']          = 'Company Name';
+$lang['signup_user_validation_password_label']         = 'Password';
+$lang['signup_user_validation_password_confirm_label'] = 'Password Confirmation';
+
+
 // Create User
 $lang['create_user_heading']                           = 'Create User';
 $lang['create_user_subheading']                        = 'Please enter the user\'s information below.';
