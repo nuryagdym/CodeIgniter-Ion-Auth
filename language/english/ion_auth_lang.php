@@ -65,6 +65,7 @@ $lang['group_name_admin_not_alter']          = 'Admin group name can not be chan
 $lang['email_activation_subject']            = 'Account Activation';
 $lang['email_activate_heading']              = 'Activate account for %s';
 $lang['email_activate_subheading']           = 'Please click this link to %s.';
+$lang['email_activate_message']           	 = 'If clicking the link above does not work, copy and paste next URL in new browser window: %s';
 $lang['email_activate_link']                 = 'Activate Your Account';
 
 // Forgot Password Email
