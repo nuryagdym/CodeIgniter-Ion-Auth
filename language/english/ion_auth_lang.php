@@ -79,3 +79,8 @@ $lang['email_forgot_password_link']          = 'Reset Your Password';
 $lang['email_new_password_subject']          = 'New Password';
 $lang['email_new_password_heading']          = 'New Password for %s';
 $lang['email_new_password_subheading']       = 'Your password has been reset to: %s';
+
+// Password Changed Email
+$lang['email_password_changed_subject']          = 'Password Changed';
+$lang['email_password_changed_heading']          = 'Password for %s is changed';
+$lang['email_password_changed_message']          = 'If it was not you please contact our support';
